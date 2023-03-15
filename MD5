@@ -1,0 +1,9 @@
+ca8fdd93a8f088464ccc0ef80f61566f *DESCRIPTION
+33a9028f3ae30445a1ea5dc2b1656c7d *NAMESPACE
+d57f5471f33ba2d1aa3d0faa09e4dbe1 *R/onAttach.R
+668071d0ca1319f1064654edad3470dc *R/toweranNA.R
+1e073b20a92fa73f11452d2a8c8a552d *data/english.RData
+6918d9b5f9e57983c0ea0152ca1b5ce3 *man/english.Rd
+3dbe52359dc4a9a6e4f3cbc6ea61d309 *man/makeTower.Rd
+9fe1f6dc2f1568ec30c7440f602ff505 *man/towerTS.Rd
+0cf60993750d35b89b143e40a7b53c1c *man/toweranNA.Rd

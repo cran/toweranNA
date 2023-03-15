@@ -1,0 +1,17 @@
+
+export(makeTower)
+export(towerTS)
+import('rmarkdown')
+importFrom(stats,lm)
+importFrom(stats,glm)
+importFrom(stats,binomial)
+importFrom(stats,complete.cases)
+importFrom(pdist,pdist)
+importFrom(FNN,get.knnx)
+importFrom(regtools,TStoX)
+importFrom(stats,mahalanobis)
+importFrom(regtools,factorToDummies)
+importFrom(regtools,factorsToDummies)
+
+S3method(predict,tower)
+
